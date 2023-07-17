@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aashna-002
+- 👋 Hi, I’m Aashna Ann
 - 👀 I’m interested in coding and technology
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on projects that could enhance my knowledge
