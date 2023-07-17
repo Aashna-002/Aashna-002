@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and technology
 - 🌱 I’m currently learning MCA
 - 💞️ I’m looking to collaborate on projects that could enhance my knowledge
-- 📫 How to reach me by mail
+
 
 <!---
 Aashna-002/Aashna-002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
